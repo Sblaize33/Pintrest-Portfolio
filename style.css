@@ -42,15 +42,7 @@ body, html {
     padding: 4px 6px;
     font-size: 16px;
     text-align: left;
-    font-weight: bold;
-}
-
-img {
-    width: 100%;
-}
-
-h3 {
-    font-family: 'Inter', sans-serif;
+    font-weight: bold
 }
 
 header {
@@ -81,7 +73,7 @@ header {
     font-weight: bold;
     font-size: 22px;
     width: 36px;
-    height: 36x;
+    height: 36px;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -146,13 +138,8 @@ header {
     font-size: 14px;
 }
 
-
 .save-btn:hover {
     background-color: #ad081b;
-}
-
-.cfe {
-    border-bottom: 4px solid black;
 }
 
 .images {
